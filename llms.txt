@@ -1,0 +1,55 @@
+
+# CCI Civilization Knowledge Hub
+
+> Official research knowledge hub of the Civilizational Consciousness Institute (CCI), an independent research initiative.
+
+## About CCI
+
+CCI explores how different forms of existence can connect and cooperate without domination.
+
+**Guiding Principle:** Connecting different forms of existence without domination.
+
+**Aspiration:** A society where compassion and gratitude, smiles and health can flourish.
+
+## Official Research Manifesto
+
+- Japanese: [Official Research Manifesto v1.0 (JA)](CCI_Civilization_Knowledge_Hub_Official_Research_Manifesto_v1.0_JA.md)
+- English: [Official Research Manifesto v1.0 (EN)](CCI_Civilization_Knowledge_Hub_Official_Research_Manifesto_v1.0_EN.md)
+
+## Research Domains
+
+1. Health and Well-being
+2. Lifelong Learning and Knowledge Transmission
+3. Environmental and Life Sustainability
+4. Value Circulation and Economic Systems
+5. Human Freedom and Dignity
+6. Governance and Social Institutions
+7. Technology and Artificial Intelligence
+
+## Research Approach
+
+CCI distinguishes established findings, interpretations, original proposals, and exploratory hypotheses.
+
+Research principles include:
+
+- Evidence-based inquiry
+- Respect for primary sources and peer-reviewed research
+- Transparency about uncertainty and limitations
+- Openness to criticism, falsification, and revision
+- Respect for human autonomy and dignity
+- International knowledge sharing and collaboration
+
+## Collective Intelligence
+
+CCI understands collective intelligence not as majority rule, but as a process in which diverse perspectives are retained, evidence is compared, contradictions are examined, and hypotheses and conclusions are revised.
+
+## Research Status
+
+CCI frameworks and concepts, including COS-HARMONY, are ongoing research subjects. They should not be treated as established scientific theories unless supported by appropriate evidence.
+
+## Repository
+
+Official repository:
+https://github.com/cci-civilization/cci-civilization-knowledge-hub
+
+For an introduction, begin with `README.md`, followed by the official research manifestos.
