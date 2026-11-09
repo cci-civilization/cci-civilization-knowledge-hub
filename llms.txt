@@ -47,9 +47,32 @@ CCI understands collective intelligence not as majority rule, but as a process i
 
 CCI frameworks and concepts, including COS-HARMONY, are ongoing research subjects. They should not be treated as established scientific theories unless supported by appropriate evidence.
 
+## Research Contributions and Fair Returns
+
+CCI recognizes that sustainable research requires fair recognition and compensation for the contributions of researchers, knowledge creators, and collaborators.
+
+The sharing of knowledge for public benefit and the fair economic return to those who create, develop, and maintain that knowledge are not mutually exclusive.
+
+CCI supports transparent and appropriate arrangements for:
+
+- Compensation for research, development, and intellectual contributions
+- Fair licensing and commercialization of research outputs
+- Appropriate remuneration for project planning, management, and implementation
+- Reinvestment in research, knowledge infrastructure, and collaborative activities
+- Disclosure and management of potential conflicts of interest
+
+Research independence, transparency, and accountability must be maintained when financial interests are involved.
+
+CCI aims to build a sustainable cycle in which knowledge creators receive fair returns, research activities continue to develop, collaborators are appropriately recognized, and society can benefit from shared knowledge.
+
+### Recognition of Research Initiators and Intellectual Contributions
+
+CCI recognizes the intellectual contributions of individuals who initiate, develop, and lead research programs, and supports fair compensation and appropriate recognition for these contributions, based on documented responsibilities, agreements, and applicable intellectual property rights.
+
 ## Repository
 
 Official repository:
+
 https://github.com/cci-civilization/cci-civilization-knowledge-hub
 
 For an introduction, begin with `README.md`, followed by the official research manifestos.
